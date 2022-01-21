@@ -1,4 +1,4 @@
-Developer and writer from Ukraine. Ruby programming language commiter.
+Developer and writer from Ukraine. Ruby programming language committer.
 
 **Mostly interested in lucid code and open data, and writing a [Substack](https://zverok.substack.com/) about it.** The range of “my” topics are united by an urge to understand and explain. Or, the problems of knowledge acquiring (with code) and expressing meaning (with code).
 
