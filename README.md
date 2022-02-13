@@ -16,7 +16,7 @@ _Working on my first Ruby book, working title "[41 Ruby Intuitions](https://zver
 
 * Working to an **API to the world's common knowledge** (based on Wikipedia/Wikidata, but not limited to it):
   * First (discontinued) attempt: [molybdenum-99](https://github.com/molybdenum-99) set of Ruby projects
-  * Second (current) attempt: [WikipediaQL](https://github.com/zverok/wikipedia_ql) Python library; writing on it: [0](https://zverok.substack.com/p/wikipedia), [1](https://zverok.substack.com/p/wikipediaql-1), _TBC_
+  * Second (current) attempt: [WikipediaQL](https://github.com/zverok/wikipedia_ql) Python library; writing on it: [0](https://zverok.substack.com/p/wikipedia), [1](https://zverok.substack.com/p/wikipediaql-1), [2](https://zverok.substack.com/p/wikipedia-and-irregular-data-how), _TBC_
 * [Spylls](https://github.com/zverok/spylls): Python spellchecker, almost full port of Hunspell; an _explanatory_ port to understand/show how it works. Series of articles: [Rebuilding the spellchecker](https://zverok.space/spellchecker.html)
 
 ### Some Ruby libraries
