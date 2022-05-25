@@ -1,3 +1,16 @@
+🇺🇦
+
+**I am Ukrainian. While Russian army invades Ukraine, kills, rapes, destructs, and steals,** [I am in Kharkiv, my homecity](https://zverok.space/blog/2022-03-15-STILL-WAR.html)
+
+I am almost useless but I am volunteering to help those in need, and I am staying.
+
+🇺🇦 **[HELP UKRAINE WIN](https://war.ukraine.ua/)** 🇺🇦
+
+**Let the text below become relevant again in other times.**
+![image](https://user-images.githubusercontent.com/129656/170352050-c06c290f-40ef-42a6-bf40-57fcccc4d4db.png)
+
+
+---
 Developer and writer from Ukraine. Ruby programming language committer.
 
 **Mostly interested in lucid code and open data, and writing a [Substack](https://zverok.substack.com/) about it.** The range of “my” topics are united by an urge to understand and explain. Or, the problems of knowledge acquiring (with code) and expressing meaning (with code).
