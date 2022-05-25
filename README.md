@@ -1,5 +1,3 @@
-🇺🇦
-
 **I am Ukrainian. While Russian army invades Ukraine, kills, rapes, destructs, and steals,** [I am in Kharkiv, my homecity](https://zverok.space/blog/2022-03-15-STILL-WAR.html)
 
 I am almost useless but I am volunteering to help those in need, and I am staying.
