@@ -2,6 +2,8 @@
 
 I am almost useless but I am volunteering to help those in need, and I am staying.
 
+**UPD:** I've joined Ukrainian Armed Forces in March 2023.
+
 🇺🇦 **[HELP UKRAINE WIN](https://war.ukraine.ua/)** 🇺🇦
 
 **Let the text below become relevant again in other times.**
